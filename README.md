@@ -10,4 +10,4 @@ By the end of this project, I will have sharpened my SQL skills and will be able
 ## [Dashboard of the Analysis]
 * Check the project out on my LinkedIn
 
-<img src="https://github.com/begindeveloper/kickstarter_project/blob/main/ksproject_dashboard.png" width="400" height="400">
+<img src="https://github.com/begindeveloper/kickstarter_project/blob/main/ksproject_dashboard.png" width="1600" height="500">
