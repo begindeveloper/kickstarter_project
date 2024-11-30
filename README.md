@@ -10,4 +10,4 @@ By the end of this project, I will have sharpened my SQL skills and will be able
 ## [Dashboard of the Analysis]
 * Check the project out on my LinkedIn
 
-<img src="[https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/task1.png](https://public.tableau.com/views/KICKSTARTPRO_VISUAL/ksproject_dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)" width="400" height="400">
+<img src="https://github.com/begindeveloper/kickstarter_project/blob/main/ksproject_dashboard.png" width="400" height="400">
